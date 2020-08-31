@@ -1,0 +1,10 @@
+body{
+    border:5px solid black;
+    padding:35px;
+    margin: 10px;
+}
+#p2{
+    background:lightcoral;
+    color: navy;
+    font-style: italic;
+}
